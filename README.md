@@ -3,7 +3,7 @@ Exemplar screens
 
 Browse screenshots of GOV.UK exemplar services, organised by user scenario.
 
-[http://alphagov.github.io/exemplar-screens/](http://alphagov.github.io/exemplar-screens/)
+[http://andyporter.github.io/exemplar-screens/](http://andyporter.github.io/exemplar-screens/)
 
 You can view different sets of screenshots for each exemplar, zoom in and out of them or step through them in order.
 
